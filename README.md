@@ -19,3 +19,5 @@ Prompts reutilizáveis:
 “Explique DHCP no MikroTik de forma simples”
 “Como criar DHCP no MikroTik?”
 “Explique passo a passo como criar DHCP no MikroTik usando Winbox”
+
+Notebooklm: https://notebooklm.google.com/notebook/5c24b173-cd3f-440e-8399-27d8a9b6ffbe
